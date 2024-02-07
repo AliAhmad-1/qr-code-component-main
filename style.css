@@ -18,10 +18,10 @@ body {
 }
 
 .content {
-    width: 322px;
-    height: 498px;
+    width: 256px;
+    height: 402px;
     border-radius: 18px;
-    padding: 15px 15px;
+    padding: 12px 12px;
     background-color: hsl(0, 0%, 100%);
     margin-top: 6%;
 }
@@ -34,20 +34,22 @@ body {
 .text-content {
     text-align: center;
     width: 100%;
-    margin-top: 1.2rem;
+    margin-top: 4px;
+    padding: 4px 0;
 }
 
 .text-content h3 {
-    font-size: 1.5rem;
-    line-height: 30px;
+    font-size: 1.1rem;
+    line-height: 25px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
 }
 
 p {
-    font-size: 16px;
-    margin-top: 0.8rem;
-    line-height: 20px;
+    font-size: 0.75rem;
+    margin-top: 11px;
+    line-height: 18px;
+    padding: 0 9px;
     color: hsl(220, 15%, 55%);
     opacity: 0.9;
 }
