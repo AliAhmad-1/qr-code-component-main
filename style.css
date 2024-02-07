@@ -11,12 +11,10 @@ html {
 
 body {
     background-color: hsl(212, 45%, 89%);
-}
-
-.container-qr {
     display: flex;
     justify-content: center;
-    height: 100%;
+    align-items: center;
+    min-height: 100vh;
 }
 
 .content {
